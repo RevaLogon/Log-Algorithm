@@ -1,0 +1,6 @@
+/home/kuzu/Projects/omer/omer/bin/Debug/omer.exe
+/home/kuzu/Projects/omer/omer/bin/Debug/omer.pdb
+/home/kuzu/Projects/omer/omer/obj/x86/Debug/omer.csproj.AssemblyReference.cache
+/home/kuzu/Projects/omer/omer/obj/x86/Debug/omer.csproj.CoreCompileInputs.cache
+/home/kuzu/Projects/omer/omer/obj/x86/Debug/omer.exe
+/home/kuzu/Projects/omer/omer/obj/x86/Debug/omer.pdb
